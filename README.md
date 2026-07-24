@@ -2,7 +2,8 @@
 <h3 align="center">I am a software engineering student.</h3>
 
 - 🌱 I’m currently learning **React, React Native**
-- 👨‍💻 All of my projects are available at [portfoliom.dev/AliKacarr](https://www.portfoliom.dev/AliKacarr)  
+- 👨‍💻 All of my projects are available at [portfoliom.dev/AliKacarr](https://www.portfoliom.dev/AliKacarr)
+- 💬 Ask me about **Web Development**
 - 📫 How to reach me **alikacardev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
