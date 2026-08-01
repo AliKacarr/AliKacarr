@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">I am a software engineering student.</h3>
+<h3 align="center">I am a software engineer.</h3>
 
 - 🌱 I’m currently learning **React, React Native**
 - 👨‍💻 All of my projects are available at [portfoliom.dev/AliKacarr](https://www.portfoliom.dev/AliKacarr)
